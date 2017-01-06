@@ -1,1 +1,1 @@
-# react-flux-todo-app
+# ReactJS-Flux todo-app
