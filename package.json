@@ -1,0 +1,24 @@
+{
+  "name": "react-flux-todo-app",
+  "version": "1.0.0",
+  "description": "react flux todo app",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colinbut/react-flux-todo-app.git"
+  },
+  "keywords": [
+    "react",
+    "flux",
+    "todo"
+  ],
+  "author": "Colin But",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colinbut/react-flux-todo-app/issues"
+  },
+  "homepage": "https://github.com/colinbut/react-flux-todo-app#readme"
+}
