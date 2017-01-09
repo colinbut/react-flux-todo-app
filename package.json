@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/colinbut/react-flux-todo-app/issues"
   },
-  "homepage": "https://github.com/colinbut/react-flux-todo-app#readme"
+  "homepage": "https://github.com/colinbut/react-flux-todo-app#readme",
+  "devDependencies": {
+    "webpack": "^1.14.0"
+  }
 }
